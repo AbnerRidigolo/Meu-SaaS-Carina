@@ -5,7 +5,7 @@ Uma Próxima Geração de Inteligência Estratégica: transformamos previsões e
 
 ---
 
-## 🎯 Visão e Proposta de Valor Única (PVU)
+## Visão e Proposta de Valor Única (PVU)
 
 Problema: o forecast atual é frequentemente um "ato de fé" (Planilhas Excel) e os mercados de previsão existentes (ex.: Kalshi) têm cobertura limitada.
 
@@ -36,7 +36,7 @@ O sistema gera previsões em três dimensões para garantir informação complet
 
 ---
 
-## 🧭 Roadmap — Próximos Passos (Fase 3)
+## Roadmap — Próximos Passos (Fase 3)
 
 - Construção da interface visual e interativa (dashboard).
 - Integração e produção do AI Advisor (recomendações estratégicas).
