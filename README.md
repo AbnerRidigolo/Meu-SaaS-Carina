@@ -1,10 +1,10 @@
-# 👑 CARINA: O Oráculo Estratégico – Plataforma de Otimização de Metas
+#  CARINA: O Oráculo Estratégico – Plataforma de Otimização de Metas
 
 A CARINA é a Plataforma SaaS de Inteligência Prescritiva que atua como o **Gêmeo Digital** da sua empresa. Nosso propósito é converter dados complexos de Big Data em um **Plano de Crescimento Quantificado**, garantindo a batida de metas com precisão e segurança de risco.
 
 ---
 
-## 💡 A Proposta de Valor: Rota Otimizada para o Crescimento
+##  A Proposta de Valor: Rota Otimizada para o Crescimento
 
 A CARINA não é uma ferramenta de *reporting*; é um **Sistema de Otimização de Metas** que garante o caminho para o sucesso.
 
@@ -17,7 +17,7 @@ A CARINA não é uma ferramenta de *reporting*; é um **Sistema de Otimização 
 
 ---
 
-## 🧠 O Motor Preditivo: Precisão Extrema e Análise 360º
+##  O Motor Preditivo: Precisão Extrema e Análise 360º
 
 O motor da CARINA é um sistema de Big Data que entende e prescreve ações.
 
@@ -40,7 +40,7 @@ A infraestrutura é projetada para o modelo Multi-Tenant, garantindo disponibili
 
 ---
 
-## 💻 Experiência de Uso (UX): Plataforma Guia 24/7
+##  Experiência de Uso (UX): Plataforma Guia 24/7
 
 A CARINA é uma plataforma completa que orienta o usuário de forma proativa.
 
@@ -68,7 +68,7 @@ O Chatbot é o ponto de consulta total e a interface conversacional para toda a 
 
 ---
 
-## 💰 Rota para o Sucesso
+##  Rota para o Sucesso
 
 O investimento na CARINA garante que o cliente terá a **visibilidade e o plano de ação** para bater suas metas.
 
