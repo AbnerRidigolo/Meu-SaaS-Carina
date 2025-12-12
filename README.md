@@ -1,6 +1,7 @@
-A CARINA é a Plataforma SaaS de Inteligência Prescritiva que atua como o Gêmeo Digital da sua empresa.
 
-Inspirada na Constelação Carina — a quilha do navio que provê estabilidade e direção — nosso propósito é converter dados complexos de Big Data em um Plano de Crescimento Quantificado. Fornecemos a fundação de precisão e segurança de risco que o seu negócio precisa, garantindo que você navegue com confiança pelo futuro e bata metas, iluminando o caminho a seguir.
+A **CARINA** é a Plataforma SaaS de Inteligência Prescritiva que atua como o **Gêmeo Digital** da sua empresa.
+
+Inspirada na Constelação Carina — a quilha do navio que provê **estabilidade e direção** — nosso propósito é converter dados complexos de **Big Data** em um **Plano de Crescimento Quantificado**. Fornecemos a **fundação de precisão e segurança de risco** que o seu negócio precisa, garantindo que você navegue com confiança pelo futuro e bata metas, iluminando o caminho a seguir.
 ---
 
 ##  A Proposta de Valor: Rota Otimizada para o Crescimento
