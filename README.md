@@ -1,7 +1,6 @@
-
 <p align="center">
-  <img src="caminho/para/sua/logo_carina.png" alt="Logo da CARINA" width="200"/>
-</
+  <img src="assets/logo_carina.png" alt="Logo da CARINA - Quilha Estelar" width="200"/>
+</p>
 
 
   
