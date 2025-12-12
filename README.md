@@ -1,67 +1,52 @@
 # 👑 CARINA: Plataforma de Otimização de Metas e Inteligência Estratégica
 
-## Slide 1: Visão & Oportunidade de Mercado
-
-| Seção | Conteúdo Chave |
-| :--- | :--- |
-| **Título** | CARINA: A **Próxima Geração de SaaS Financeiro** – Otimização de Metas via IA e Big Data. |
-| **Problema** | Empresas operam com previsões manuais e incerteza, sem saber a **rota ideal** para atingir metas ambiciosas, nem **quanto crescimento** cada ação garantirá. |
-| **Solução** | A CARINA é o **Sistema Prescritivo** que traduz *todos* os dados da empresa em um **Plano de Crescimento Quantificável**, garantindo a batida de metas com precisão de IA. |
-
-## Slide 2: O Motor Preditivo e a Precisão Extrema (A Teoria)
-
-O motor da CARINA conecta a causalidade entre os KPIs para traçar a rota otimizada e garantir a confiabilidade dos resultados.
-
-| Recurso | Função Estratégica | Garantia de Risco e Precisão |
-| :--- | :--- | :--- |
-| **Análise de Causalidade 360º** | Mapeia o impacto de **todos os dados importantes** (Vendas, Produto, Suporte) nas metas de crescimento (MRR, LTV), usando **Modelos de Grafos** para achar o **Gargalo Raiz**. | **Identifica o "Porquê":** Explicabilidade total (XAI), eliminando a "caixa preta" da IA. |
-| **Prescrição Otimizada** | O AI Advisor calcula a **sequência de ações** (Ex: Reduzir tempo de Onboarding ou Aumentar Preço) que maximiza o crescimento em direção à meta. | **Crescimento Quantificado:** A IA responde: "**Quanto posso crescer** se fizer tudo o que mandar nos relatórios." |
-| **Segurança de Risco** | **Monte Carlo Aprimorado:** Quantifica a incerteza e projeta a **Imagem Negativa** (o pior cenário possível), permitindo planejamento de contingência. | **MAPE < 5%:** Nosso MLOps garante uma precisão de previsão do MRR que é *benchmark* de mercado. |
+A CARINA é a **Plataforma SaaS de próxima geração** que transforma a gestão financeira em um processo científico. Atuando como o **Gêmeo Digital** da empresa, ela substitui previsões estáticas por um sistema prescritivo que não apenas prevê o futuro, mas traça a **rota otimizada** para garantir o alcance das metas mais ambiciosas.
 
 ---
 
-## 🏗️ Slide 3: Arquitetura Tecnológica e Escalabilidade (O Foco do Investidor)
+## 💡 A Proposta de Valor: Otimização de Metas Quantificada
 
-A infraestrutura é projetada para ser um SaaS Multi-Tenant, processando Big Data e garantindo resultados instantâneos e segurança.
+A CARINA resolve o problema central do executivo: **saber exatamente o que fazer e quanto crescimento isso garante.**
+
+| Problema Resolvido | Solução CARINA |
+| :--- | :--- |
+| **Incerteza do Risco** | **Quantificação de Risco (Monte Carlo):** Traduz o risco em uma **probabilidade percentual de sucesso** acionável. |
+| **Gargalos Ocultos** | **Diagnóstico de Causa-Raiz:** Identifica a origem do problema (Ex: lentidão no Onboarding) usando **Process Mining e Modelos de Grafos**. |
+| **Falta de Ação** | **Inteligência Prescritiva (AI Advisor):** Fornece o **Plano de Crescimento Otimizado**, garantindo o maior retorno na batida da meta. |
+
+---
+
+## 🧠 O Motor Preditivo: Precisão e Explicabilidade
+
+O motor é o coração da CARINA, focado em **Precisão Extrema** e na compreensão da causalidade entre os KPIs.
+
+### Funcionalidades do Modelo
+
+* **Análise de Causalidade 360º:** Mapeia o impacto de **todos os KPIs** (Vendas, Produto, Suporte) no crescimento.
+* **Segurança de Risco:** Apresenta a **Imagem Negativa** (pior cenário) e a **Margem de Erro Preditivo (MAPE < 5%)** é garantida via MLOps.
+* **Crescimento Quantificado:** A IA responde: "Ao executar o plano prescrito, você garante **X% de crescimento**."
+* **Transparência (XAI):** Usa **SHAP Values** para explicar *por que* a previsão mudou e *por que* a recomendação foi feita, eliminando a "caixa preta".
+
+### Arquitetura Tecnológica (Tecnologias de Ponta)
+
+A plataforma é construída para escala Multi-Tenant e velocidade instantânea.
 
 | Camada da Arquitetura | Tecnologia Chave | Capacidade de Escalabilidade |
 | :--- | :--- | :--- |
-| **1. Ingestão e Processamento** | **Apache Kafka (Streaming)** e **Apache Spark** | Processa **Terabytes de dados** de múltiplos clientes em fluxo, permitindo o diagnóstico de gargalos em tempo real. |
-| **2. Armazenamento Central** | **Snowflake (Data Warehouse)** e **Amazon S3 (Data Lake)** | Armazena o histórico completo e modela dados limpos, garantindo que o **Chatbot Mestre** acesse *qualquer* dado histórico da empresa. |
-| **3. MLOps e Automação** | **Apache Airflow** ou **AWS Step Functions** | Orquestra o **re-treinamento diário** dos modelos (garantindo o MAPE < 5%) e automatiza a geração de relatórios prescritivos. |
-| **4. Inteligência Conversacional** | **LLM + Vector Database (RAG)** | Garante que o Chatbot acesse o Big Data e a Causalidade, permitindo a **Geração Gráfica sob Demanda** e respostas fenomenais. |
-| **5. Interface** | **Docker/Kubernetes (Hospedagem)** | Permite o *deploy* do Dashboard e do Chatbot em contêineres, garantindo **disponibilidade 24/7** e separação total de dados por cliente (Multi-Tenant). |
+| **Ingestão e Processamento** | **Apache Kafka (Streaming)** e **Apache Spark** | Processamento de Terabytes de dados em fluxo, permitindo o diagnóstico de gargalos em tempo real. |
+| **Armazenamento Central** | **Snowflake (Data Warehouse)** e **Amazon S3 (Data Lake)** | Armazena o histórico completo e modela dados para a entrega instantânea. |
+| **MLOps e Automação** | **Apache Airflow / AWS Step Functions** | Orquestra o **re-treinamento diário** dos modelos, garantindo o **MAPE < 5%** e a entrega de relatórios prescritivos. |
+| **Inteligência Conversacional** | **LLM + Vector Database (RAG)** | Suporta o Chatbot Mestre com conhecimento total da empresa e capacidade de **Geração Gráfica sob Demanda**. |
 
 ---
 
-## 💻 Slide 4: Experiência de Uso (UX) – Ações em Tempo Real
+## 💻 Experiência de Uso (UX) – O Comando 24/7
 
-A CARINA é uma plataforma de comando pró-ativa, sempre fornecendo a inteligência certa.
+A inteligência da CARINA é entregue de forma pró-ativa e fluida, em uma interface simples e poderosa.
 
-### 1. Dashboard (Acesso Imediato)
+### Dashboard (Visão Imediata)
 
-* **Status Atual:** Exibe instantaneamente os resultados que a empresa está tendo agora (KPIs em tempo real).
-* **Comparação Rápida:** O gráfico Plotly/Dash mostra o **Cenário Base** (Previsão se nada mudar) e o **Plano Otimizado** (Resultado do AI Advisor).
-* **Simulador de Cenários:** Permite ao usuário testar o impacto de suas próprias hipóteses e ver o novo *forecast* em tempo real.
-
-### 2. Acompanhamento Proativo (24/7)
-
-* **Monitoramento Contínuo:** O sistema monitora a performance 24 horas por dia, detectando gargalos e anomalias assim que ocorrem.
-* **Comunicação Orientada:** Envia **relatórios constantes por e-mail** que são, na verdade, **tarefas acionáveis** para as equipes (Vendas, Marketing, Suporte), garantindo a execução do plano de metas.
-
-### 3. O Chatbot Mestre (O Oráculo Conversacional)
-
-Disponível no site 24/7, ele é a interface para toda a inteligência da CARINA.
-
-* **Conhecimento Total:** Permite perguntar **qualquer coisa** sobre qualquer valor, data ou evento armazenado (Ex: "Qual foi o LTV médio dos clientes de SP em 2024?").
-* **Geração Gráfica no Chat:** O usuário pede no chat: "Mostre-me a performance de Vendas do time B." O Chatbot gera e plota o gráfico **sob demanda** na janela.
-* **Simulação Conversacional:** O Chatbot facilita a simulação de cenários diretamente na conversa.
-
----
-
-## Slide 5: Rota para o Sucesso e o ROI do Investidor
-
-**O CARINA garante o crescimento ao traduzir dados complexos em um Plano de Ação Quantificado.**
-
-* **O ROI:** O investimento na CARINA garante que o cliente terá a **visibilidade e o plano de ação** para bater suas metas mais ambiciosas, sabendo **exatamente quanto crescimento pode ser garantido**.
-* **Próximo Passo Crítico:** **Fase 4 - Testes com Clientes Beta.** Precisamos provar o **MAPE < 5%** e a validade da **Otimização de Metas** com dados reais, mitigando o risco antes do investimento na Arquitetura Big Data (Fase 5).
+Ao acessar o site, o usuário vê:
+1.  **Status Atual:** Resultados de desempenho agora (KPIs em tempo real).
+2.  **Comparação Rápida:** Gráfico mostrando o **Cenário Base** (se nada mudar) vs. o **Plano Otimizado** (o caminho para a meta).
+3.  **Simulador de Cenários:** Ferramenta interativa para testar o impacto de hipóteses (Ex: Ch
